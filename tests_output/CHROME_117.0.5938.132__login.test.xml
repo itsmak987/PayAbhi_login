@@ -5,9 +5,15 @@
 
   <testsuite name="login.test"
     errors="0" failures="0" hostname="" id="" package="login.test" skipped="0"
-    tests="1" time="6.790" timestamp="">
+    tests="1" time="18.63" timestamp="">
   
-    <testcase name="TC8" classname="login.test" time="3.392" assertions="0">
+    <testcase name="TC4" classname="login.test" time="9.314" assertions="3">
+
+    
+
+    
+
+    
     </testcase>
   
 
